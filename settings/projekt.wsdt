@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>projekt/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>176</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1860</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19484-4460</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>projekt</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18564-5296</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-22186-21295</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Timing.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\globalVariables.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>29</SelStart><SelEnd>29</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\globalVariables.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>7</SelStart><SelEnd>7</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\kernel_functions.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1467</SelStart><SelEnd>1467</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\context_switching_functions.s</Filename><XPos>0</XPos><YPos>163</YPos><SelStart>7514</SelStart><SelEnd>7514</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\doublelinkedlist.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>938</SelStart><SelEnd>938</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sample_test_one.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>882</SelStart><SelEnd>882</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sample_test_two(1).c</Filename><XPos>0</XPos><YPos>136</YPos><SelStart>3366</SelStart><SelEnd>3366</SelEnd></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\exceptions.c</Filename><XPos>0</XPos><YPos>119</YPos><SelStart>5070</SelStart><SelEnd>5070</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\kernel_functions.c</Filename><XPos>0</XPos><YPos>501</YPos><SelStart>12681</SelStart><SelEnd>12681</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04d1f4e0><key>iaridepm.enu1</key></Toolbar-04d1f4e0></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>419</Bottom><Right>250</Right><x>-2</x><y>-2</y><xscreen>511</xscreen><yscreen>53</yscreen><sizeHorzCX>480263</sizeHorzCX><sizeHorzCY>93805</sizeHorzCY><sizeVertCX>236842</sizeVertCX><sizeVertCY>745133</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>101</Bottom><Right>1066</Right><x>-2</x><y>-2</y><xscreen>1068</xscreen><yscreen>103</yscreen><sizeHorzCX>1003759</sizeHorzCX><sizeHorzCY>182301</sizeHorzCY><sizeVertCX>480263</sizeVertCX><sizeVertCY>93805</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
